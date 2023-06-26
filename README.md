@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/iamleonardk/iamleonardk/blob/main/HW.png)
 
 <h1 align="center">Hi 👋, I'm Leonard</h1>
 <h3 align="center">A passionate student and learner from India</h3>
